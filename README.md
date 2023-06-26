@@ -1,7 +1,7 @@
 # Diatomic-Py-SrF
 
-A useful repo for computing quantities relevant for ^2$\Sigma$ diatomic molecules like SrF.
-Adapted by Qian from the Diatomic-Py module (for ^1$\Sigma$ molecules) created by Simon Cornish's group at Durham.
+A useful repo for computing quantities relevant for <sup>2</sup>&Sigma; diatomic molecules like SrF.
+Adapted by Qian from the Diatomic-Py module (for <sup>1</sup>&Sigma; molecules) created by Simon Cornish's group at Durham.
 Paper reference: https://www.sciencedirect.com/science/article/pii/S0010465522002314
 
 Basic idea: 
